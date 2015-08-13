@@ -8,3 +8,4 @@ A holding place for Girl Develop It Dayton event suggestions. Add your suggessti
  * Social mixer
  * Head shot/avatar photography shoot
  * Mentor pairing
+ * Family style potluck in the park
