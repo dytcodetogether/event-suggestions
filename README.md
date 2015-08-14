@@ -9,3 +9,4 @@ A holding place for Girl Develop It Dayton event suggestions. Add your suggessti
  * Head shot/avatar photography shoot
  * Mentor pairing
  * Family style potluck in the park
+ * 3D printing at [Proto](http://www.protobuildbar.com/)!
